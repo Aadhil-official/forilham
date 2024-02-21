@@ -1,0 +1,20 @@
+/* .stack{ 
+    width: 300;
+    background-color: #A2B2F6;
+} */
+
+.stack{
+    width: 300;
+    border-radius: 100px;
+    background-color: #A2B2F6;
+}
+
+.search{
+    position: absolute;
+    cursor: pointer;
+    right: 25%;
+    background-color: #A2B2F6;
+    padding: 1%;
+    border-radius: 100px;
+}
+

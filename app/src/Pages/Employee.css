@@ -1,0 +1,17 @@
+.fltr {
+    border-radius: 100px;
+    margin: 1%;
+}
+
+.forSmall {
+    text-align: center;
+}
+
+.add{
+    position: absolute;
+}
+
+.addb {
+    position: relative;
+}
+
